@@ -4,8 +4,8 @@
   "name": "Brev",
   "colors": {
     "primary": "#fd6600",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "light": "#fd6600",
+    "dark": "#fd6600"
   },
   "favicon": "/favicon.svg",
   "navigation": {
@@ -73,11 +73,6 @@
           "anchor": "Documentation",
           "href": "https://mintlify.com/docs",
           "icon": "book-open-cover"
-        },
-        {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
         }
       ]
     }
