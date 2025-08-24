@@ -3,7 +3,7 @@
   "theme": "mint",
   "name": "Brev",
   "colors": {
-    "primary": "#16A34A",
+    "primary": "#fd6600",
     "light": "#07C983",
     "dark": "#15803D"
   },
@@ -17,7 +17,6 @@
             "group": "Getting started",
             "pages": [
               "index",
-              "quickstart",
               "development"
             ]
           },
@@ -90,27 +89,18 @@
   "navbar": {
     "links": [
       {
-        "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "label": "Entrar",
+        "href": "https://brev.pro/signin"
       }
     ],
     "primary": {
       "type": "button",
-      "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
+      "label": "Cadastrar",
+      "href": "https://brev.pro/dashboard"
     }
   },
   "contextual": {
-    "options": [
-     "copy",
-     "view",
-     "chatgpt",
-     "claude",
-     "perplexity",
-     "mcp",
-     "cursor",
-     "vscode"
-   ]
+    "options": ["copy"]
   },
   "footer": {
     "socials": {
