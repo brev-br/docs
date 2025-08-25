@@ -14,9 +14,10 @@
         "language": "pt-BR",
         "groups": [
           {
-            "group": "Primeiros Passos",
+            "group": "Essencial",
             "pages": [
-              "index"
+              "index",
+              "primeiros-passos"
             ]
           }
         ]
