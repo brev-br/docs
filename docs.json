@@ -3,10 +3,25 @@
   "theme": "aspen",
   "name": "Brev",
   "colors": {
-    "primary": "#fd6600"
+    "primary": "#FD6600",
+    "light": "#FD6600",
+    "dark": "#FD6600"
   },
   "favicon": "/favicon.png",
   "navigation": {
+    "languages": [
+      {
+        "language": "pt_BR",
+        "groups": [
+          {
+            "group": "Primeiros Passos",
+            "pages": [
+              "index"
+            ]
+          }
+        ]
+      }
+    ],
     "tabs": [
       {
         "tab": "Guias",
@@ -65,6 +80,9 @@
   },
   "contextual": {
     "options": []
+  },
+  "styling": {
+    "eyebrows": "breadcrumbs"
   },
   "footer": {
     "socials": {
