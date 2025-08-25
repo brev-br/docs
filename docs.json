@@ -3,11 +3,9 @@
   "theme": "aspen",
   "name": "Brev",
   "colors": {
-    "primary": "#fd6600",
-    "light": "#fd6600",
-    "dark": "#fd6600"
+    "primary": "#fd6600"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/favicon.png",
   "navigation": {
     "tabs": [
       {
@@ -78,8 +76,8 @@
     }
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "/logo/brev-full-orange.svg",
+    "dark": "/logo/brev-full-orange.svg"
   },
   "navbar": {
     "links": [
@@ -95,7 +93,7 @@
     }
   },
   "contextual": {
-    "options": ["copy"]
+    "options": []
   },
   "footer": {
     "socials": {
