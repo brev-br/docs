@@ -12,10 +12,9 @@
         "tab": "Guias",
         "groups": [
           {
-            "group": "Getting started",
+            "group": "Primeiros Passos",
             "pages": [
-              "index",
-              "development"
+              "index"
             ]
           },
           {
@@ -33,34 +32,6 @@
               "essentials/images",
               "essentials/reusable-snippets"
             ]
-          },
-          {
-            "group": "AI tools",
-            "pages": [
-              "ai-tools/cursor",
-              "ai-tools/claude-code",
-              "ai-tools/windsurf"
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "API reference",
-        "groups": [
-          {
-            "group": "API documentation",
-            "pages": [
-              "api-reference/introduction"
-            ]
-          },
-          {
-            "group": "Endpoint examples",
-            "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
-            ]
           }
         ]
       }
@@ -68,9 +39,9 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
+          "anchor": "Documentação",
+          "href": "https://docs.brev.pro",
+          "icon": "books"
         }
       ]
     }
@@ -97,9 +68,9 @@
   },
   "footer": {
     "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
+      "github": "https://github.com/brev-br",
+      "linkedin": "https://linkedin.com/company/brev",
+      "instagram": "https://instagram.com/brev_br"
     }
   }
 }
